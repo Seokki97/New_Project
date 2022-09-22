@@ -1,0 +1,66 @@
+[33mcommit 2296c07672ed105d005bece0c359939cdeed5110[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: JunSeok Kim <skaksdl1238@gmail.com>
+Date:   Thu Sep 22 12:01:06 2022 +0900
+
+    move file name
+
+[33mcommit 2acb71a99b9bd9268800848a32c549908c1b23f3[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: JunSeok Kim <skaksdl1238@gmail.com>
+Date:   Thu Sep 22 11:11:24 2022 +0900
+
+    first commit
+
+[33mcommit 889fab6794bb62333e29bea738c88566a7cf0747[m
+Merge: feff9e4 8a2f8b4
+Author: JunSeok Kim <skaksdl1238@gmail.com>
+Date:   Thu Sep 22 10:50:07 2022 +0900
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit feff9e4d864bd9d5be5ea679ab45b1d60d00f2f8[m
+Author: JunSeok Kim <skaksdl1238@gmail.com>
+Date:   Thu Sep 22 10:49:57 2022 +0900
+
+    README
+
+[33mcommit 8a2f8b450013c1f4ff7a57783d58b87a73a03dd9[m
+Author: 김준석 <87793069+Seokki97@users.noreply.github.com>
+Date:   Thu Sep 22 10:49:34 2022 +0900
+
+    Delete README.md
+
+[33mcommit d307433379174a33c1389cada2ede5630f301960[m
+Author: 김준석 <87793069+Seokki97@users.noreply.github.com>
+Date:   Thu Sep 22 10:42:03 2022 +0900
+
+    Update README.md
+
+[33mcommit 39b8e15ec79aae3b5cb4887322811f69b02783f6[m
+Author: 김준석 <87793069+Seokki97@users.noreply.github.com>
+Date:   Thu Sep 22 10:41:06 2022 +0900
+
+    Create README.md
+
+[33mcommit 4b60dfa56933da16d074f9933009a35a6ad94a09[m
+Author: 김준석 <87793069+Seokki97@users.noreply.github.com>
+Date:   Thu Sep 22 10:40:51 2022 +0900
+
+    Delete README.MD
+
+[33mcommit 97b549a61d0a9ae397674721aef575abbd4b1a4e[m
+Author: 김준석 <87793069+Seokki97@users.noreply.github.com>
+Date:   Thu Sep 22 10:37:14 2022 +0900
+
+    Create README.MD
+
+[33mcommit 7b98629bde2b2de5a0a1c062812be8b17a3667c8[m
+Author: JunSeok Kim <skaksdl1238@gmail.com>
+Date:   Thu Sep 22 10:36:41 2022 +0900
+
+    first commit
+
+[33mcommit d09786a0eaecdeecabbfd4ef6f70eb9eb6ef53ee[m
+Author: JunSeok Kim <skaksdl1238@gmail.com>
+Date:   Thu Sep 22 10:36:30 2022 +0900
+
+    Initial commit
